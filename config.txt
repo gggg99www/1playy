@@ -1,0 +1,6 @@
+﻿token=NTEyMTkyNzYzMjk5NzU4MDgw.Ds-29Q.f9seey4CfcmGSDuY5_EmmJ6tBSI
+owner=ادي 499982945088569344
+prefix= fff
+game= فخامه زاتو
+stayinchannel=true
+songinstatus=true 
